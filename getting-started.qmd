@@ -2,8 +2,8 @@
 title: "SDS 192"
 author: "Lindsay Poirier"
 date: "January 27, 2022"
-output:
-  sds::class_notes
+editor:
+  mode: source
 ---
 
 1. ====DELETE THIS TEXT AND ADD YOUR NAME HERE.===
